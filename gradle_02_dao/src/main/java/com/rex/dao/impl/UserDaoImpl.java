@@ -7,6 +7,6 @@ import org.springframework.stereotype.Repository;
 public class UserDaoImpl implements UserDao {
     @Override
     public String save() {
-        return "123保存成功！";
+        return "666保存成功！";
     }
 }
