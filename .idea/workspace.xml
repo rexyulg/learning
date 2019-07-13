@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f89427c7-e433-467a-95a3-0426f04752f9" name="Default Changelist" comment="modifyworspace.sml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle_02_dao/src/test/java/com/rex/test/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/gradle_02_dao/src/test/java/com/rex/test/HelloGit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -398,7 +397,24 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle_02_dao/src/test/java/com/rex/test/HelloGit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -433,6 +449,7 @@
         <option value="$PROJECT_DIR$/gradle_02_web/src/main/resources/consumer.xml" />
         <option value="$PROJECT_DIR$/gradle_02_web/src/main/java/com/rex/controller/UserController.java" />
         <option value="$PROJECT_DIR$/gradle_02_dao/src/test/java/com/rex/test/HelloGit.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -467,6 +484,11 @@
             <path>
               <item name="gradle_02_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="gradle_02_parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="gradle_02_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gradle_02_parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -673,7 +695,7 @@
       <workItem from="1562120365280" duration="44000" />
       <workItem from="1562206594664" duration="21000" />
       <workItem from="1562233069431" duration="261000" />
-      <workItem from="1562988217330" duration="1923000" />
+      <workItem from="1562988217330" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="modifyworspace.sml">
       <created>1561866679726</created>
@@ -700,13 +722,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17068000" />
+    <option name="totallyTimeSpent" value="18778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -722,7 +743,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.4993046" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3698795" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6831325" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3282123" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -930,17 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle_02_dao/src/test/java/com/rex/test/HelloGit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle_02_web/src/main/java/com/rex/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -948,8 +958,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gradle_02_dao/src/test/java/com/rex/test/HelloGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
