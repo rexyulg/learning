@@ -16,6 +16,6 @@ public class UserController {
     public String save(Model model) {
         String save = userService.save();
         model.addAttribute("save", save);
-        return "list";
+        return "listabc";
     }
 }
